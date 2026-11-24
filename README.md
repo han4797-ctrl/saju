@@ -2,4 +2,16 @@
 
 토정비결 × 자미두수 · 육효 · 기문둔갑
 
-https://han4797-ctrl.github.io/saju/
+## 공개 주소 (YouTube / SNS 공유용)
+
+**https://han4797-ctrl.github.io/saju/**
+
+- 영상 설명란·고정 댓글·커뮤니티 게시물에 위 링크만 넣으면 됩니다.
+- 미리보기 이미지: `og.png` (1200×630)
+- 이 저장소는 사주 전용입니다. VL 홈페이지(`vlmnc`)와 연결되어 있지 않습니다.
+
+## 로컬 작업
+
+- 편집 원본: `사주_통합.html` (git 추적 안 함)
+- 배포 파일: `index.html` (Pages가 이 파일을 제공합니다)
+- 배포 전에 `사주_통합.html` → `index.html`로 복사한 뒤 push 하세요.

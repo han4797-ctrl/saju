@@ -1,0 +1,10 @@
+# Local working / build only — not published
+.claude/
+_통합빌드/
+원본/
+수정본/
+*_easy.html
+사주_통합.html
+.DS_Store
+Thumbs.db
+*.b64
